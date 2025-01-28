@@ -2,8 +2,8 @@
 
 int main() {
     int r, c;
-    scanf("%d", &r);
-    for(r=%d;r>=1;r--)
+    scanf("%d", &a);
+    for(r=a;r>=1;r--)
     {
         for c=1;c<=r;c++;
         {
