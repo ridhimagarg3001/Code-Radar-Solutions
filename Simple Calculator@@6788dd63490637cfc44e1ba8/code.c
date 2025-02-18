@@ -26,7 +26,7 @@ int main() {
             }
             break;
         default:
-            printf("Error\n");  // For invalid operator
+            printf("error\n");  // For invalid operator
             break;
     }
     
